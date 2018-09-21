@@ -1,0 +1,35 @@
+_repo: Hands-Around-Reigen-A-Cycle-of-Ten-Dialogues_53513
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Edwards, L. D.
+    gutenberg_agent_id: '47407'
+    url: http://www.gutenberg.org/2009/agents/47407
+  - agent_name: Glaser, F. L.
+    gutenberg_agent_id: '47408'
+    url: http://www.gutenberg.org/2009/agents/47408
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: ''
+gutenberg_issued: '2016-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian drama -- 19th century'
+- !lcsh 'Sex (Psychology) -- Drama'
+- !lcc 'PT'
+- !lcsh 'Sexual ethics -- Drama'
+- GITenberg
+title: 'Hands Around [Reigen]: A Cycle of Ten Dialogues'
+url: http://www.gutenberg.org/ebooks/53513
